@@ -1,0 +1,14 @@
+.main {
+  margin-top: 20%;
+}
+.user-button {
+  font-weight: bold;
+  color: blue;
+}
+.lbl {
+  font-weight: bolder;
+}
+.top-buffer { margin-top:20px; }
+.radio-button {
+  margin-left: -15px;
+}
